@@ -30,9 +30,7 @@ st.divider()
 # -----------------------------------
 # Backend API Configuration
 # -----------------------------------
-
-API_URL = "http://127.0.0.1:8000/ask"
-
+API_URL = "https://ai-powered-cloud-data-analytics-platform.onrender.com/ask"
 # -----------------------------------
 # User Question Input
 # -----------------------------------
